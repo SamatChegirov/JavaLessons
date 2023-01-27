@@ -35,6 +35,8 @@ public class Main {
         System.out.println(counter);
     }*/
 
+
+
     //TODO #3 foreach чыгарганы
     static int sumMethod(int... numbers) {
         int count = 0;
